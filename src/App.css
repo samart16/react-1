@@ -7,7 +7,8 @@
   
   .home,
   .services,
-  .about-us {
+  .about-us,
+  .join-us {
     display: flex;
     height: 90vh;
     align-items: center;
@@ -24,7 +25,7 @@
     font-size: 100px;
   }
   
-  .products {
+  .about-us {
     background-image: url('../public/images/desert.jpg');
     background-position: center;
     background-size: fill;
